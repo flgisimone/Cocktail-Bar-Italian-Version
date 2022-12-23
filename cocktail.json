@@ -1,7 +1,7 @@
 [
 {
 "name": "White Russian",
-"presentation": "Un cocktail after dinner energizzante​? Il White Russian è il drink giusto: dolce e delicato, a base di vodka, panna fresca e liquore al caffè. Tre ingredienti per un cocktail che si abbina bene ai dolci al cioccolato.",
+"presentation": "Un cocktail after dinner energizzante? Il White Russian è il drink giusto: dolce e delicato, a base di vodka, panna fresca e liquore al caffè. Tre ingredienti per un cocktail che si abbina bene ai dolci al cioccolato.",
 "ingredients": [
 "50 ml di vodka",
 "20 ml di liquore al caffè",
@@ -41,7 +41,7 @@
 },
 {
 "name": "Gin Lemon",
-"presentation": "Il Gin Lemon è un cocktail rinfrescante di successo a base di gin, limonata e ghiaccio. La ricetta è molto semplice da realizzare ed è tra le più conosciute al mondo.",
+"presentation": "Il Gin Lemon è un cocktail rinfrescante di successo a base di gin, limonata e ghiaccio.",
 "ingredients": [
 "60 ml di gin",
 "80 ml di limonata",
@@ -53,7 +53,7 @@
 },
 {
 "name": "Long Island",
-"presentation": "Il Long Island è un cocktail con un alto tasso alcolico. La ricetta, semplice da fare a casa, prevede infatti tequila, gin, triple sec, vodka, rum bianco ai quali vengono aggiunti succo di limone, sciroppo di zucchero e Coca Cola.",
+"presentation": "Il Long Island è un cocktail con un alto tasso alcolico. Prevede infatti tequila, gin, triple sec, vodka, rum bianco ai quali vengono aggiunti succo di limone, sciroppo di zucchero e Coca Cola.",
 "ingredients": [
 "15 ml di tequila",
 "15 ml di gin",
@@ -71,7 +71,7 @@
 },
 {
 "name": "Boulevardier",
-"presentation": "Il Boulevardier è un cocktail a base di Campari, Vermouth Rosso e Bourbon Whiskey facile da preparare in soli 5 minuti.",
+"presentation": "Il Boulevardier è un cocktail a base di Campari, Vermouth Rosso e Bourbon Whiskey.",
 "ingredients": [
 "25 ml di Bourbon Whiskey",
 "25 ml di Vermouth Rosso",
@@ -83,7 +83,7 @@
 },
 {
 "name": "Campari Spritz",
-"presentation": "Il Campari Spritz è l'iconico cocktail da aperitivo a base di Prosecco, Bitter Campari e soda. Una ricetta fresca e facile da realizzare in soli 10 minuti.",
+"presentation": "Il Campari Spritz è l'iconico cocktail da aperitivo a base di Prosecco, Bitter Campari e soda.",
 "ingredients": [
 "50 ml di Campari",
 "100 ml di Prosecco",
@@ -95,7 +95,7 @@
 },
 {
 "name": "Rum Cooler",
-"presentation": "Il Rum Cooler è un cocktail cosiddetto pestato a base di rum, zucchero, ginger ale, lime, limone e arancia, facile da preparare in soli 10 minuti.",
+"presentation": "Il Rum Cooler è un cocktail cosiddetto pestato a base di rum, zucchero, ginger ale, lime, limone e arancia.",
 "ingredients": [
 "50 ml Dark Rum",
 "1 fetta di lime",
@@ -110,7 +110,7 @@
 },
 {
 "name": "Tom Collins",
-"presentation": "Il Tom Collins è un cocktail rinfrescante a base di gin, succo di limone, sciroppo di zucchero e soda. La ricetta è semplice e veloce da realizzare in soli 5 minuti.",
+"presentation": "Il Tom Collins è un cocktail rinfrescante a base di gin, succo di limone, sciroppo di zucchero e soda.",
 "ingredients": [
 "50 ml di Old Tom Gin",
 "25 ml di succo di limone",
@@ -125,14 +125,12 @@
 "id": "9"
 },
 {
-"name": "French 75",
-"presentation": "Il French 75 è un cocktail elegante a base di gin, succo di limone, sciroppo di zucchero e champagne appartenente alla famiglia degli sparkling.",
+"name": "Screwdriver",
+"presentation": "Un cocktail a base di vodka e succo d'arancia ottimo per un brunch.",
 "ingredients": [
-"30 ml di gin",
-"20 ml di succo di limone",
-"10 ml di sciroppo di zucchero",
-"75 ml di champagne",
-"Ciliegie sciroppate per decorare",
+"50 ml di vodka",
+"150 ml di succo d'arancia",
+"1 fetta d'arancia per guarnire",
 "Cubetti di  ghiaccio q.b."
 ],
 "image": "image 1",
