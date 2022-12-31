@@ -203,5 +203,18 @@
   ],
   "image": "https://i.postimg.cc/65PBZtxR/cosmopolitan.png",
   "id": "15"
+ },
+  {
+  "name": "Negroni sbagliato",
+  "presentation": "Il Negroni Sbagliato, o Sbagliato, è un cocktail diventato mitico. Simbolo dell'aperitivo, è stato inventato nei primi anni Settanta nel Bar Basso di Milano. La ricetta è semplice e veloce e prevede spumante brut, vermut rosso e bitter.",
+  "ingredients": [
+   "3 cl di spumante metodo classico",
+   "3 cl di bitter",
+   "3 cl di vermut rosso",
+   "Mezza fetta d’arancia",
+   "Ghiaccio q.b."
+  ],
+  "image": "https://i.postimg.cc/sDTsdLPn/negroni-sbagliato.png",
+  "id": "16"
  }
 ]
