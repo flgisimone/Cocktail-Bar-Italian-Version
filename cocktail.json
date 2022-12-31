@@ -1,139 +1,207 @@
 [
-{
-"name": "White Russian",
-"presentation": "Un cocktail after dinner energizzante? Il White Russian è il drink giusto: dolce e delicato, a base di vodka, panna fresca e liquore al caffè. Tre ingredienti per un cocktail che si abbina bene ai dolci al cioccolato.",
-"ingredients": [
-"50 ml di vodka",
-"20 ml di liquore al caffè",
-"Ghiaccio q.b.",
-"Top di panna liquida"
-],
-"image": "https://i.postimg.cc/ZnkJsqV4/white-russian.png",
-"id": "1"
-},
-{
-"name": "Piña Colada",
-"presentation": "La Piña Colada è un classico della miscelazione​. Gli ingredienti sono semplici: rum bianco, succo di ananas e latte o sciroppo di cocco. Il tutto viene frullato con del ghiaccio. Il risultato è un cocktail dolcemente fruttato e facile da creare.",
-"ingredients": [
-"5 cl di rum bianco",
-"9 cl di succo di ananas",
-"Mezza ananas bella matura",
-"3 cl di latte o sciroppo di cocco",
-"80 g di ghiaccio tritato",
-"1 fetta di ananas",
-"1 ciliegina al maraschino"
-],
-"image": "https://i.postimg.cc/mZccdz2f/pina-colada.png",
-"id": "2"
-},
-{
-"name": "Sex on the beach",
-"presentation": "Il Sex on the beach è un long drink a base di vodka dal gusto pulito e dal colore inconfondibile. Rinfrescante e dal sapore dolce del liquore alla pesca che si unisce alle note acidule del succo di mirtillo e alla leggera asprezza dell'arancia.",
-"ingredients": [
-"4 cl di vodka",
-"2 cl di peach schnapps (liquore alla pesca)",
-"4 cl di spremuta di arancia",
-"4 cl di succo di cranberry",
-"Fetta di arancia"
-],
-"image": "https://i.postimg.cc/d0H16vbV/sex-on-the-beach.png",
-"id": "3"
-},
-{
-"name": "Gin Lemon",
-"presentation": "Il Gin Lemon è un cocktail rinfrescante di successo a base di gin, limonata e ghiaccio.",
-"ingredients": [
-"60 ml di gin",
-"80 ml di limonata",
-"Ghiaccio q.b.",
-"Fetta di limone"
-],
-"image": "https://i.postimg.cc/KvB126M0/gin-lemon.png",
-"id": "4"
-},
-{
-"name": "Long Island",
-"presentation": "Il Long Island è un cocktail con un alto tasso alcolico. Prevede infatti tequila, gin, triple sec, vodka, rum bianco ai quali vengono aggiunti succo di limone, sciroppo di zucchero e Coca Cola.",
-"ingredients": [
-"15 ml di tequila",
-"15 ml di gin",
-"15 ml di triple sec",
-"15 ml di vodka",
-"15 ml rum bianco",
-"25 ml di succo di limone",
-"3 ml di sciroppo di zucchero",
-"Coca Cola",
-"Ghiaccio q.b.",
-"Fetta di limone"
-],
-"image": "image 1",
-"id": "5"
-},
-{
-"name": "Boulevardier",
-"presentation": "Il Boulevardier è un cocktail a base di Campari, Vermouth Rosso e Bourbon Whiskey.",
-"ingredients": [
-"25 ml di Bourbon Whiskey",
-"25 ml di Vermouth Rosso",
-"25 ml di bitter Campari",
-"1 scorza d’arancia per guarnire"
-],
-"image": "https://i.postimg.cc/XXS6LDNJ/boulevardier.png",
-"id": "6"
-},
-{
-"name": "Campari Spritz",
-"presentation": "Il Campari Spritz è l'iconico cocktail da aperitivo a base di Prosecco, Bitter Campari e soda.",
-"ingredients": [
-"50 ml di Campari",
-"100 ml di Prosecco",
-"1 spruzzo di soda",
-"1 fetta di arancia per guarnire"
-],
-"image": "https://i.postimg.cc/pLvpXsQR/campari-spritz.png",
-"id": "7"
-},
-{
-"name": "Rum Cooler",
-"presentation": "Il Rum Cooler è un cocktail cosiddetto pestato a base di rum, zucchero, ginger ale, lime, limone e arancia.",
-"ingredients": [
-"50 ml Dark Rum",
-"1 fetta di lime",
-"1 fetta di limone",
-"1 fetta di arancia",
-"2 cucchiai di zucchero bianco",
-"Top Ginger Ale",
-"1 fetta di lime per guarnire"
-],
-"image": "https://i.postimg.cc/Jh40jtdF/rum-cooler.png",
-"id": "8"
-},
-{
-"name": "Tom Collins",
-"presentation": "Il Tom Collins è un cocktail rinfrescante a base di gin, succo di limone, sciroppo di zucchero e soda.",
-"ingredients": [
-"50 ml di Old Tom Gin",
-"25 ml di succo di limone",
-"15 ml di sciroppo di zucchero",
-"Soda",
-"Cubetti di ghiaccio q.b.",
-"1 fetta di limone per guarnire",
-"1 fetta d'arancia per guarnire",
-"1 ciliegia sciroppata per guarnire"
-],
-"image": "https://i.postimg.cc/kXQgZW0Z/tom-collins.png",
-"id": "9"
-},
-{
-"name": "Screwdriver",
-"presentation": "Un cocktail a base di vodka e succo d'arancia ottimo per un brunch.",
-"ingredients": [
-"50 ml di vodka",
-"150 ml di succo d'arancia",
-"1 fetta d'arancia per guarnire",
-"Cubetti di  ghiaccio q.b."
-],
-"image": "https://i.postimg.cc/DwcmW15s/screwdriver.png",
-"id": "10"
-}
+ {
+  "name": "White Russian",
+  "presentation": "Un cocktail after dinner energizzante? Il White Russian è il drink giusto: dolce e delicato, a base di vodka, panna fresca e liquore al caffè. Tre ingredienti per un cocktail che si abbina bene ai dolci al cioccolato.",
+  "ingredients": [
+   "50 ml di vodka",
+   "20 ml di liquore al caffè",
+   "Ghiaccio q.b.",
+   "Top di panna liquida"
+  ],
+  "image": "https://i.postimg.cc/ZnkJsqV4/white-russian.png",
+  "id": "1"
+ },
+ {
+  "name": "Pina Colada",
+  "presentation": "La Piña Colada è un classico della miscelazione​. Gli ingredienti sono semplici: rum bianco, succo di ananas e latte o sciroppo di cocco. Il tutto viene frullato con del ghiaccio. Il risultato è un cocktail dolcemente fruttato e facile da creare.",
+  "ingredients": [
+   "5 cl di rum bianco",
+   "9 cl di succo di ananas",
+   "Mezza ananas bella matura",
+   "3 cl di latte o sciroppo di cocco",
+   "80 g di ghiaccio tritato",
+   "1 fetta di ananas",
+   "1 ciliegina al maraschino"
+  ],
+  "image": "https://i.postimg.cc/mZccdz2f/pina-colada.png",
+  "id": "2"
+ },
+ {
+  "name": "Sex on the beach",
+  "presentation": "Il Sex on the beach è un long drink a base di vodka dal gusto pulito e dal colore inconfondibile. Rinfrescante e dal sapore dolce del liquore alla pesca che si unisce alle note acidule del succo di mirtillo e alla leggera asprezza dell'arancia.",
+  "ingredients": [
+   "4 cl di vodka",
+   "2 cl di peach schnapps (liquore alla pesca)",
+   "4 cl di spremuta di arancia",
+   "4 cl di succo di cranberry",
+   "Fetta di arancia"
+  ],
+  "image": "https://i.postimg.cc/d0H16vbV/sex-on-the-beach.png",
+  "id": "3"
+ },
+ {
+  "name": "Gin Lemon",
+  "presentation": "Il Gin Lemon è un cocktail rinfrescante di successo a base di gin, limonata e ghiaccio.",
+  "ingredients": [
+   "60 ml di gin",
+   "80 ml di limonata",
+   "Ghiaccio q.b.",
+   "Fetta di limone"
+  ],
+  "image": "https://i.postimg.cc/KvB126M0/gin-lemon.png",
+  "id": "4"
+ },
+ {
+  "name": "Long Island",
+  "presentation": "Il Long Island è un cocktail con un alto tasso alcolico. Prevede infatti tequila, gin, triple sec, vodka, rum bianco ai quali vengono aggiunti succo di limone, sciroppo di zucchero e Coca Cola.",
+  "ingredients": [
+   "15 ml di tequila",
+   "15 ml di gin",
+   "15 ml di triple sec",
+   "15 ml di vodka",
+   "15 ml rum bianco",
+   "25 ml di succo di limone",
+   "3 ml di sciroppo di zucchero",
+   "Coca Cola",
+   "Ghiaccio q.b.",
+   "Fetta di limone"
+  ],
+  "image": "https://i.postimg.cc/2jP1gkVq/long-island.png",
+  "id": "5"
+ },
+ {
+  "name": "Boulevardier",
+  "presentation": "Il Boulevardier è un cocktail a base di Campari, Vermouth Rosso e Bourbon Whiskey.",
+  "ingredients": [
+   "25 ml di Bourbon Whiskey",
+   "25 ml di Vermouth Rosso",
+   "25 ml di bitter Campari",
+   "1 scorza d’arancia per guarnire"
+  ],
+  "image": "https://i.postimg.cc/XXS6LDNJ/boulevardier.png",
+  "id": "6"
+ },
+ {
+  "name": "Campari Spritz",
+  "presentation": "Il Campari Spritz è l'iconico cocktail da aperitivo a base di Prosecco, Bitter Campari e soda.",
+  "ingredients": [
+   "50 ml di Campari",
+   "100 ml di Prosecco",
+   "1 spruzzo di soda",
+   "1 fetta di arancia per guarnire"
+  ],
+  "image": "https://i.postimg.cc/pLvpXsQR/campari-spritz.png",
+  "id": "7"
+ },
+ {
+  "name": "Rum Cooler",
+  "presentation": "Il Rum Cooler è un cocktail cosiddetto pestato a base di rum, zucchero, ginger ale, lime, limone e arancia.",
+  "ingredients": [
+   "50 ml Dark Rum",
+   "1 fetta di lime",
+   "1 fetta di limone",
+   "1 fetta di arancia",
+   "2 cucchiai di zucchero bianco",
+   "Top Ginger Ale",
+   "1 fetta di lime per guarnire"
+  ],
+  "image": "https://i.postimg.cc/Jh40jtdF/rum-cooler.png",
+  "id": "8"
+ },
+ {
+  "name": "Tom Collins",
+  "presentation": "Il Tom Collins è un cocktail rinfrescante a base di gin, succo di limone, sciroppo di zucchero e soda.",
+  "ingredients": [
+   "50 ml di Old Tom Gin",
+   "25 ml di succo di limone",
+   "15 ml di sciroppo di zucchero",
+   "Soda",
+   "Cubetti di ghiaccio q.b.",
+   "1 fetta di limone per guarnire",
+   "1 fetta d'arancia per guarnire",
+   "1 ciliegia sciroppata per guarnire"
+  ],
+  "image": "https://i.postimg.cc/kXQgZW0Z/tom-collins.png",
+  "id": "9"
+ },
+ {
+  "name": "Screwdriver",
+  "presentation": "Un cocktail a base di vodka e succo d'arancia ottimo per un brunch.",
+  "ingredients": [
+   "50 ml di vodka",
+   "150 ml di succo d'arancia",
+   "1 fetta d'arancia per guarnire",
+   "Cubetti di  ghiaccio q.b."
+  ],
+  "image": "https://i.postimg.cc/DwcmW15s/screwdriver.png",
+  "id": "10"
+ },
+ {
+  "name": "Mojito",
+  "presentation": "Il Mojito​ è un famoso cocktail di origine cubana, reso celebre dallo scrittore Hemingway: è un drink perfetto per un aperitivo o un dopocena. Gli ingredienti sono rum, zucchero di canna, lime, soda e menta.",
+  "ingredients": [
+   "2 cucchiai (o una chiave da 15) di zucchero di canna bianco",
+   "45 ml di rum bianco",
+   "20 ml di succo di lime fresco",
+   "40 ml soda",
+   "Cubetti di ghiaccio q.b.",
+   "2 rametti di menta fresca"
+  ],
+  "image": "https://i.postimg.cc/MT6Ym0bc/mojito.png",
+  "id": "11"
+ },
+ {
+  "name": "Margarita",
+  "presentation": "Il Margarita è un cocktail after dinner a base di tequila, ideale da sorseggiare dopo cena in una serata in compagnia, ma può essere anche un ottimo drink da aperitivo. Dolce e salato si uniscono in maniera molto piacevole. Di sicuro, vi deve piacere il sale, con cui si effettua la bordatura del bicchiere.",
+  "ingredients": [
+   "35 ml tequila bianca o mezcal",
+   "20 ml di triple sec",
+   "Succo fresco di lime",
+   "Sale fino q.b.",
+   "Ghiaccio q.b.",
+   "2 rametti di menta fresca"
+  ],
+  "image": "https://i.postimg.cc/TwtKMn8W/margarita.png",
+  "id": "12"
+ },
+ {
+  "name": "Negroni",
+  "presentation": "Il famoso drink a base di gin, vermouth rosso e bitter è servito. Un classico aperitivo dall'inconfondibile color arancio scuro, che potete sorseggiare anche dopo cena in una serata tra amici.",
+  "ingredients": [
+   "30 ml di gin",
+   "30 ml di bitter Campari o Martini",
+   "Fetta d'arancia",
+   "Ghiaccio q.b."
+  ],
+  "image": "https://i.postimg.cc/d1TwVCpf/negroni.png",
+  "id": "13"
+ },
+ {
+  "name": "Blue Lagoon",
+  "presentation": "Drink estivo ed esteticamente gradevole, colorato, fresco e giovanile.",
+  "ingredients": [
+   "90 ml tequila bianca",
+   "30 ml triple sec",
+   "Sale q.b.",
+   "30 ml blue Curaçao",
+   "30 ml lime spremuto",
+   "2 fette lime per guarnire"
+  ],
+  "image": "https://i.postimg.cc/DysDwT6B/blue-lagoon.png",
+  "id": "14"
+ },
+ {
+  "name": "Cosmopolitan",
+  "presentation": "Il Cosmopolitan è un famoso cocktail americano​ a base di vodka. Il colore rosa è dato dal succo di mirtillo rosso. Drink perfetto come aperitivo o dopocena.",
+  "ingredients": [
+   "40 ml di vodka citron",
+   "15 ml di cointreau",
+   "15 ml di succo di lime",
+   "30 ml di succo di mirtilli",
+   "1 lime",
+   "Ghiaccio q.b."
+  ],
+  "image": "https://i.postimg.cc/65PBZtxR/cosmopolitan.png",
+  "id": "15"
+ }
 ]
